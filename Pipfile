@@ -19,7 +19,7 @@ lxml = "==4.6.3"
 Pillow = "==8.3.1"
 Pygments = "==2.9.0"
 requests = "==2.26.0"
-result = "==0.6.0"
+result = "==0.8.0"
 tenacity = "==8.0.1"
 widlparser = "==1.0.11"
 
